@@ -25,7 +25,7 @@ int main(int argc, char *argv[])
             }
         }
         std::cout << num << std::endl;
-        std::cout << "Went through " << iterations + 1 << " iterations";
+        std::cout << "Went through " << iterations + 1 << " iterations" << std::endl;
         return 0;
     }
 }
